@@ -117,3 +117,4 @@ function playSound(text){
 
 // 페이지 로드 시 퀴즈 시작
 loadQuiz();
+
